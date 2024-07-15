@@ -1,7 +1,6 @@
 # JP Morgan Quantitative Research Virtual Internship on Forage
 
 ## Task-1 : Natural Gas Price Analysis and Extrapolation
-### Project Overview
 Analyze monthly natural gas prices to estimate prices at any date and extrapolate for an additional year.
 
 #### Objectives
