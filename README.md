@@ -35,3 +35,19 @@ Develop a Python function to estimate the value of a gas storage contract based 
 #### Deliverables
 1. Python function implementing the pricing model
 2. Sample input data and expected output values
+
+## Task-3 : Loan Default Prediction and Expected Loss Estimation
+Build a predictive model that can estimate the probability of default for a loan borrower and calculate the expected loss on a loan, taking into account a recovery rate of 10%.
+
+#### Objectives
+
+1. Predict probability of default (PD) for loan borrowers based on their characteristics
+2. Estimate expected loss on a loan with a recovery rate of 10%
+
+#### Deliverables
+
+1. A random forest classifier to predict PD
+2. A Python function `estimate_expected_loss` to estimate expected loss
+3. Supports input features: income, total loans outstanding, credit score, employment length, and more
+4. A dataset of loan borrowers with features and target variable
+
